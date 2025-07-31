@@ -1,0 +1,204 @@
+[
+  {
+    "count": 1,
+    "name": "Chapter Zero",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ashes",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Contact Aberration",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chamber Catacomb",
+    "category": [
+      "Chapter",
+      "Starting Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venture Ghost",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Exhumation Zone",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Apprehension (EZ2)",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chirality",
+    "category": [
+      "Chapter",
+      "Goal"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stunstick",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kick",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prototype Gauss Pistol",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "A Gun",
+    "category": [
+      "Mid Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "\"Portal\" Gun",
+    "category": [
+      "Late Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MP7",
+    "category": [
+      "Mid Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MP5",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "AR2 ",
+    "category": [
+      "Late Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rebel Shotgun",
+    "category": [
+      "Mid Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rebel Crossbow",
+    "category": [
+      "Late Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grenades",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "R.P.G.",
+    "category": [
+      "Late Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "S.L.A.M. Mines",
+    "category": [
+      "Early Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Xen Relay Grenades",
+    "category": [
+      "Mid Game Weapon",
+      "Weapon"
+    ],
+    "progression": true
+  },
+  {
+    "count": "6",
+    "name": "Progressive Chapter Cleared",
+    "category": [
+      "Goal"
+    ],
+    "progression": true
+  }
+]

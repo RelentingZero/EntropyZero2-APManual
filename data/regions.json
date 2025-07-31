@@ -1,0 +1,61 @@
+{
+  "Chapter Zero": {
+    "starting": true,
+    "connects_to": [
+      "Ashes",
+      "Contact Aberration",
+      "Chamber Catacomb",
+      "Venture Ghost",
+      "Exhumation Zone",
+      "Apprehension (EZ2)",
+      "Chirality"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  "Ashes": {
+    "connects_to": [
+      "Chapter Zero",
+      "Contact Aberration",
+      "Chamber Catacomb",
+      "Venture Ghost",
+      "Exhumation Zone",
+      "Apprehension (EZ2)",
+      "Chirality"
+    ],
+    "requires": "|Ashes|",
+    "starting": true
+  },
+  "Contact Aberration": {
+    "connects_to": [],
+    "requires": "|Contact Aberration| AND |@Early Weapon:2| OR |@Mid Game Weapon:1| OR |@Late Game Weapon:1|"
+  },
+  "Chamber Catacomb": {
+    "connects_to": [
+      "Chapter Zero",
+      "Ashes",
+      "Contact Aberration",
+      "Venture Ghost",
+      "Exhumation Zone",
+      "Apprehension (EZ2)",
+      "Chirality"
+    ],
+    "requires": "|Chamber Catacomb|",
+    "starting": true
+  },
+  "Venture Ghost": {
+    "connects_to": [],
+    "requires": "|Venture Ghost| AND |@Early Weapon:3| AND |@Mid Game Weapon:1| OR |@Late Game Weapon:1|"
+  },
+  "Exhumation Zone": {
+    "connects_to": [],
+    "requires": "|Exhumation Zone| AND |@Early Weapon:4| AND |@Mid Game Weapon:2| OR |@Late Game Weapon:2|"
+  },
+  "Apprehension (EZ2)": {
+    "connects_to": [],
+    "requires": "|Apprehension (EZ2)| AND |@Early Weapon:4| AND |@Mid Game Weapon:3| OR |@Late Game Weapon:3|"
+  },
+  "Chirality": {
+    "connects_to": [],
+    "requires": "|Chirality| AND |Progressive Chapter Cleared:3|"
+  }
+}

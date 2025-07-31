@@ -1,0 +1,1720 @@
+[
+  {
+    "name": "(CZ) Start Your Shift",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Talk To MetroCop That Hates You",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero| "
+  },
+  {
+    "name": "(CZ) Get Called A Teacher's Pet",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Get Reminded Of Your Poker Debts",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Get Teased For Not Getting Your Perks",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Get Repremanded For Breaking Code 46-12",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Get Called A Bootlicker",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Health Station Near Malfunctioning Manhack",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Locker Room Hula Girl",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Locker Room Health Station",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) How Many MetroCops Does It Take To Screw In A Lightbulb?",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Stunstick Pickup",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|",
+    "place_item": [
+      "Stunstick"
+    ]
+  },
+  {
+    "name": "(CZ) Cleared Out Headcrabs",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Killed Defective Manhack",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Have Your Co-Workers Fudge Your Numbers",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Pistol Pickup",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Murder The Shit Out Of Your Co-Workers",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Get Assigned To The Wastelands",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|"
+  },
+  {
+    "name": "(CZ) Listen To Aiden's Speech",
+    "region": "Chapter Zero",
+    "category": [
+      "Chapter Zero"
+    ],
+    "requires": "|Chapter Zero|",
+    "place_item": [
+      "Progressive Chapter Cleared"
+    ]
+  },
+  {
+    "name": "(A) Wake Up",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Prototype Gauss Pistol Pickup",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Health Station Near Antlion Infestation",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Get Your Assignment From The Advisor",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Grenade Cache",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) AR2 Pickup",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Health Station Near AR2 Pickup",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) MP7 Pickup",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) AR2 Near Dead Combine Elite",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Health Station Near Security Cameras",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Suit Charger Near Security Cameras",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Arrived At The Shower Room With A Full Squad",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) S.L.A.M. Mines Pickup",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|"
+  },
+  {
+    "name": "(A) Escaped Nova Prospekt",
+    "region": "Ashes",
+    "category": [
+      "Ashes"
+    ],
+    "requires": "|Ashes|",
+    "place_item": [
+      "Progressive Chapter Cleared"
+    ]
+  },
+  {
+    "name": "(CA) Escape Crashed Evac Chopper",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) MP5 Pickup",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Rebel Shotgun Pickup",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Recieved Backup",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Cleared Out Arbiet Offices",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Located Doctor Mossman",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Heard Bad Cop Talk About Poker",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Unlocked Powered Doors",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Encountered Jumping Rebels For The First Time",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Took Out Sniper",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Retrieved Privlidged Unit Scar Zero",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Opened Garage Doors",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Survived Rebel Ambush",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Met Your Clone For The First Time",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Turned Off Zero Gravity Field",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Shotgun Pickup On Table",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Killed Temporal Crab",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Turned Power Back On",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|"
+  },
+  {
+    "name": "(CA) Have Another Heart To Heart With Your Clone",
+    "region": "Contact Aberration",
+    "category": [
+      "Contact Aberration"
+    ],
+    "requires": "|Contact Aberration|",
+    "place_item": [
+      "Progressive Chapter Cleared"
+    ]
+  },
+  {
+    "name": "(CC) Escaped The Sinking Platform",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Walk Through Emancipation Grill",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Tried The Elevator And Stairs",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Looked At Bring Your Daugher To Work Day Poster",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Acquired Wilson",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Finished First Puzzle",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Met the Mutated Gonome",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Solved Puzzle 2",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Survived Turret Room",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Outran The Gonome",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Have Wilson Get You By Receptionist Turret",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Picked Up Empty Revolver",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Prototype Gauss Pistol Pickup",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Opened Way Forwards",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Opened Locked Out Wilson Door",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Killed Gonome",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Xen Relay Grenade Pickup",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Opened The Last Door",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Opened The ACTUAL Last Door",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|"
+  },
+  {
+    "name": "(CC) Take Wilson With You",
+    "region": "Chamber Catacomb",
+    "category": [
+      "Chamber Catacomb"
+    ],
+    "requires": "|Chamber Catacomb|",
+    "place_item": [
+      "Progressive Chapter Cleared"
+    ]
+  },
+  {
+    "name": "(VG) MP5 Pickup",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Shotgun Pickup",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) AR2 Pickup",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) S.L.A.M. Mine On Table",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Link Up With Squad",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Arbeit Hallways Health Station",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Arbeit Hallways Suit Charger",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Arbeit Hallways AR2 Pickup",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Recieved Orders From Advisor",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Got A Hunter As A Present",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Got An APC As A Present",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Cleared Out Gatehouse",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Wilson Cache 1",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Fast Zombie Jumpscare",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Cleared Out Workshop",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Turned On Valley Power",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Flip The APC",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Wilson Cache 2",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Dumpster Dive",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Cleared Out Pit Drone Roadblock",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Enter Monitering Station",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Turned On Power #1",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Turned On Power #2",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Turned On Power #3",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Wilson Cache 3",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Witnessed The Borealis In Action",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Opened The Gate To Arbeit's Basement",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|"
+  },
+  {
+    "name": "(VG) Enter Arbiet's Basement",
+    "region": "Venture Ghost",
+    "category": [
+      "Venture Ghost"
+    ],
+    "requires": "|Venture Ghost|",
+    "place_item": [
+      "Progressive Chapter Cleared"
+    ]
+  },
+  {
+    "name": "(EZ) Get Stopped On The Way Into Arbiet #2",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Survived Crossbow Rebel Ambush",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Rebel Crossbow Pickup",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Entered Substation Gamma",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Opened Gate To Arbeit 2",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Killed Temporal Crab",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Rode Elevator Into Substation Gamma Basement",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Killed First Zombiegaunt",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Item Crates Behind Fence",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Survived Temporal Anomaly Room",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Meet Back Up With Wilson",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Wilson Cache With Rebels",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Survived Zortigaunt Ambush",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Watched The Bridge Into Arbiet 2 Explode",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Have The APC Get Its Engine Fried",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Enter Cave Johnson's Villa",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Wilson Cache In Cave Johnson's Villa",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Survived Rebel Standoff At Cave Johnson's Villa",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Enter Arbiet 2 Shotcut",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Valve Healing Pool",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Pit Drone Room Healing Pool",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Xen Relay Grenades Pickup",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Killed Caged Stuka Bat",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Purple Portal Room Healing Pool",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Healing Pool Before Track Power",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Healing Pools Outside Track Power Room",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Track Power Room Healing Pool",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Turned On Track Power",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Escaped The Gonomes",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Wilson Cache 5",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Take The Shortcut To Arbeit 2",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Removed Headcrab From Wilson",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(EZ) Finally Enter Arbiet 2",
+    "region": "Exhumation Zone",
+    "category": [
+      "Exhumation Zone"
+    ],
+    "requires": "|Exhumation Zone|"
+  },
+  {
+    "name": "(AEZ) Watched Hunter Throw Rebel Into Trash",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Found Judith Mossman",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Left Wilson To Open Door",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Wilson Cache 6",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Met Back Up With Your Clone",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Xen Relay Grenade On Table",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Battery Powered Health Station",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Battery Powered Suit Charger",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Put Wilson Into Payload Transport",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Linked Up With Combine Squad",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Lead The Assault On Arbeit 2",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Rooftop Health Station",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Rooftop Suit Charger",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Rooftop RPG Pickup",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Wilson Cache After Active Turret",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Violate The Geneva Convention (Again)",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Fail To Capture Judith At Arbiet 2",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Enter Excavation Site 7",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Fire Pit Health Station",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Fire Pit Suit Charger",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) WIlson Cache Near Fire Pit",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Healing Pool Near Fire Pit",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Xen Relay Grenades In Tripmine Room",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Survived Tripmine Room",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Healing Pool Near Skeleton",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Killed Temporal Crab",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Finally Met Up With Mossman",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Xen Relay Grenade On Top of Boxes",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Satelite Comms Facility Entrance Xen Relay Grenades",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Satelite Comms Entrance Wilson Cache",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Killed Dumpster Temporal Crab",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Cleared Out Helipad",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Took Out Mossman's Chopper",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Leave Wilson To Open Another Wilson Cache",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Doorbreaker Health Station",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Doorbreaker Suit Charger",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Started Doorbreaker",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Survived Xen Relay Grenade Standoff",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Health Station After Doorbreaker",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Suit Charger After Doorbreaker",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) MP5 On Table",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Watched Radio Guy Get Killed",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Finally Apprehended Judith Mossman",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Witness Your Clone Wipe Out Your Squad",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Escape Your Clone",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Wilson Cache After Long Wait",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Recieved New Order From Advisor",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Health Station Near Advisor",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Suit Charger Near Advisor",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|"
+  },
+  {
+    "name": "(AEZ) Chase After Your Clone",
+    "region": "Apprehension (EZ2)",
+    "category": [
+      "Apprehension (EZ2)"
+    ],
+    "requires": "|Apprehension (EZ2)|",
+    "place_item": [
+      "Progressive Chapter Cleared"
+    ]
+  },
+  {
+    "name": "(C) Enter Primary Excavation Site",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Opened Door To Entropic Control Facility",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Entropic Meltdown Started",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Xen Relay Grenades Near S.L.A.M. Mines",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Get Transported Into The Borealis",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Leave The Borealis",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Get Teleported Into The Borealis Again",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Left The Borealis Again",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Enter Entropic Control",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Defeat Your Clone In Combat",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Stopped Entropic Core Meltdown",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Prototype AR2 Pickup",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Link Back Up With Scar Zero",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Started Transport Platform Sequence",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Left On Transport Platform",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Encountered Temporal Anomaly",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Got Some Last Words From Wilson",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Upload Wilson Into The AI Mainframe",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Finally See The Borealis",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Have A Heart-To-Heart With Your Clone",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Refuse To Kill Your Clone",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Kill Your Clone",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Kill The Advisor",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Enter The Borealis",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Meet The G-Man",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Kill Your Imprint",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Get Interrogated By The Combine",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) Get Saved By Wilson",
+    "region": "Chirality",
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  },
+  {
+    "name": "(C) AR3 Pickup",
+    "region": "Chirality",
+    "victory": true,
+    "category": [
+      "Chirality"
+    ],
+    "requires": "|Chirality|"
+  }
+]
